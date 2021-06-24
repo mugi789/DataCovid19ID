@@ -1,5 +1,5 @@
 # Data INFO KASUS COVID19 DI INDONESIA
-![alt text](https://raw.githubusercontent.com/mugi789/DataCovid19ID/master/Screenshot%20from%202021-06-23%2022-29-27.png)
+![alt text](https://raw.githubusercontent.com/mugi789/DataCovid19ID/master/Screenshot%20from%202021-06-24%2018-32-59.png)
 # Cara Pakai #
 Buka terminal, lalu copy text yg ada di bawah ini
 * ``` sudo apt install git curl jq sed -y ```
